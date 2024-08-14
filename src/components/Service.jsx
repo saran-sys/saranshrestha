@@ -22,7 +22,7 @@ const Service = () => {
         </p>
       </div>
 
-      <div className="border grid grid-cols-2 md:grid-cols-3 lg:flex">
+      <div className="grid grid-cols-2 justify-center md:grid-cols-3 lg:flex">
         {services.map((service) => (
           <div className=" border py-8 px-12 text-2xl" key={service}>
             {service}

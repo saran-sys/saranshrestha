@@ -22,7 +22,7 @@ const Portfolio = () => {
         </div>
       </div>
       <div className="flex gap-10 py-24">
-        <Marquee pauseOnHover={true} speed={300}>
+        <Marquee pauseOnHover={true} speed={150}>
           <img
           className="p-4"
             src="https://img.freepik.com/free-photo/top-view-nutritional-counter-app-concept_23-2149880602.jpg"
