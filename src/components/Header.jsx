@@ -15,7 +15,7 @@ const Header = () => {
       <div className="img-container h-[80vh] overflow-hidden">
         <img
           width={"820px"}
-          className="object-cover rounded-full absolute right-36 top-5  " 
+          className="object-cover rounded-full absolute right-36 top-5 hidden lg:flex" 
           src="/its-me-sharon.png"
           alt="best-ui/ux-desingner-around-pokhara"
         />
