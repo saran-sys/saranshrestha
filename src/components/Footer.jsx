@@ -27,22 +27,17 @@ const Footer = () => {
           <div>
             <ul className="flex flex-col">
               <li>
-                <a href="https://instagram.com/saran" target="_blank">
+                <a href="https://www.instagram.com/saran.shrestha_/" target="_blank">
                   Instagram
                 </a>
               </li>
               <li>
-                <a href="https://instagram.com/saran" target="_blank">
+                <a href="https://www.facebook.com/saran.shrestha.5015" target="_blank">
                   Facebook
                 </a>
               </li>
               <li>
-                <a href="https://instagram.com/saran" target="_blank">
-                  Twitter
-                </a>
-              </li>
-              <li>
-                <a href="https://instagram.com/saran" target="_blank">
+                <a href="https://www.linkedin.com/in/saran-shrestha-1b3095279/" target="_blank">
                   Linkedin
                 </a>
               </li>

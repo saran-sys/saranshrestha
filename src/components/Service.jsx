@@ -7,8 +7,8 @@ const Service = () => {
     "Logo Design",
   ];
   return (
-    <div className="flex flex-col py-12">
-      <h2 className="md:text-center">Service</h2>
+    <div  className="flex flex-col py-12">
+      <h2 id="service" className="md:text-center">Service</h2>
       <p className=" pb-8 text-4xl md:text-center">
       Available services that <br />I can work on
       </p>
