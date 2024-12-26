@@ -23,6 +23,7 @@ const Footer = () => {
             </p>
 
             <p>Design &copy; Amalia Sanchez . All rights reserved 2022</p>
+            <p>Made with ❤️ by <a href="https://kshetritej.com.np" target="_blank">Tej Kshetri</a></p>
           </div>
           <div>
             <ul className="flex flex-col">
